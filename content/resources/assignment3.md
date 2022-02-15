@@ -6,8 +6,13 @@ description: Problem set 3 of the term project. Each problem set of the term pro
   demonstrate that you are on the right track.  A short discussion of risks/mitigation
   plans and your group's schedule (constrained by the syllabus of course) would be
   important as well.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-76-multi-scale-system-design-fall-2004/b28683e38259a9cbcc8436d3523ada56_assignment3.pdf
+file: /media/courses/2-76-multi-scale-system-design-fall-2004/b28683e38259a9cbcc8436d3523ada56_assignment3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assignment3.pdf
 uid: b28683e3-8259-a9cb-cc84-36d3523ada56

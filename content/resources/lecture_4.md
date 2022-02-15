@@ -3,8 +3,13 @@ content_type: resource
 description: 'Slides from lecture presentation covering the following topics: Principles
   of Macro/Meso-scale and Micro-scale Part Integration, Incompatibilities of Micro
   Parts with Nano Parts, and Micro-scale Part Errors and Implications for Integration'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-76-multi-scale-system-design-fall-2004/88a017ed4bd8a94dd5b02ebf7f10743f_lecture_4.pdf
+file: /media/courses/2-76-multi-scale-system-design-fall-2004/88a017ed4bd8a94dd5b02ebf7f10743f_lecture_4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_4.pdf
 uid: 88a017ed-4bd8-a94d-d5b0-2ebf7f10743f

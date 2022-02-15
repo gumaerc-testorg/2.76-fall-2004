@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: be39d5ff-04e2-2159-0556-9858baa236cf
 ---
@@ -53,7 +56,7 @@ We would be very pleased if you could design for resolution required to scan the
 Working Range
 {{< tdclose >}}
 {{< tdopen >}}
-500 × 500 × 500 nm3
+500 × 500 × 500 nm{{< sup "3" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Minimum range
@@ -65,7 +68,7 @@ Minimum range
 Total Size
 {{< tdclose >}}
 {{< tdopen >}}
-220 × 150 × 120 (height) mm3  
+220 × 150 × 120 (height) mm{{< sup "3" >}}  
 But should be as small as possible to increase resonance frequency
 {{< tdclose >}}
 {{< tdopen >}}
