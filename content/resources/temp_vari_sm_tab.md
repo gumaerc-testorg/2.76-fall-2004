@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: be39d5ff-04e2-2159-0556-9858baa236cf
 resourcetype: Image
 title: temp_vari_sm_tab.jpg
 uid: 6d8a5dc5-d37b-f611-4d07-3b4d8fe6f792

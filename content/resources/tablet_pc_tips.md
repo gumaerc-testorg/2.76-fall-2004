@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: af1cdab1-afe2-1921-a087-95b9f1d93c62
 resourcetype: Document
 title: tablet_pc_tips.pdf
 uid: 383082d1-6a73-c95b-3c99-dd7c41dd7493

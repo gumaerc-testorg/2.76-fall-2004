@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: be39d5ff-04e2-2159-0556-9858baa236cf
 resourcetype: Document
 title: 2000dxftutorial.pdf
 uid: dd58f581-d63e-fae4-43c1-349f5ce2cd38

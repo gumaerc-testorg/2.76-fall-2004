@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a9540b50-458a-84d7-fd53-d2a938949de8
 resourcetype: Document
 title: stm_explanation.pdf
 uid: b76111a4-1adf-c8be-8759-653ea77ef78c

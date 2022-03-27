@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: be39d5ff-04e2-2159-0556-9858baa236cf
 resourcetype: Document
 title: dynchar_floorvib.pdf
 uid: 87dccec0-d5e4-f270-d585-47356ac82c7b
