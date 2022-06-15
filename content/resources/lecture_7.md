@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-76-multi-scale-system-design-fall-2004/170f8a25f03e3c080917fe2fcc162ad1_lecture_7.pdf
+file: /courses/2-76-multi-scale-system-design-fall-2004/170f8a25f03e3c080917fe2fcc162ad1_lecture_7.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

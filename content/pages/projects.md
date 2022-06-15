@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains instructions for projects and supporting materials
+  for them.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -107,7 +109,7 @@ The TA is an invaluable resource for knowing where to find things you need!!! It
 Supporting Materials
 --------------------
 
-1.  a) Pre-amp electronics theory and spec sheets ([PDF]({{< baseurl >}}/resources/preamplifier))  
+1.  a) Pre-amp electronics theory and spec sheets ({{% resource_link f3ee3fc0-14f4-828b-45b2-1bbb44a43e48 "PDF" %}})  
     b) TI OPA627/637 spec sheet ([PDF](http://focus.ti.com/lit/ds/symlink/opa627.pdf))
 2.  Capacitance probe theory primer
 3.  Capacitance probe spec sheets  
@@ -123,9 +125,9 @@ Supporting Materials
 7.  X and Y Axis Piezo actuator specs  
     Manufacturer: [Piezojena](http://www.piezojena.com/)  
     Model number: PA 50/14 SG
-8.  How to make DXF files (Waterjet accepts DXF files made from CAD program) ([PDF]({{< baseurl >}}/resources/2000dxftutorial))
-9.  Dynamic characteristics of environment (large table) ([PDF]({{< baseurl >}}/resources/dynchar_floorvib))
-10.  Thermal characteristics of environment (small table) ([JPG]({{< baseurl >}}/resources/temp_vari_sm_tab))
+8.  How to make DXF files (Waterjet accepts DXF files made from CAD program) ({{% resource_link dd58f581-d63e-fae4-43c1-349f5ce2cd38 "PDF" %}})
+9.  Dynamic characteristics of environment (large table) ({{% resource_link 87dccec0-d5e4-f270-d585-47356ac82c7b "PDF" %}})
+10.  Thermal characteristics of environment (small table) ({{% resource_link 6d8a5dc5-d37b-f611-4d07-3b4d8fe6f792 "JPG" %}})
 11.  Shielded cables (where to buy and how to make)  
     Manufacturer: [Alpha Wire](http://www.alphawire.com/)  
     Type: Coaxial cables 

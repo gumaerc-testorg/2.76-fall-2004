@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about the tools used throughout the
+  course.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -12,7 +14,7 @@ This course makes extensive use of Tablet PCs and a software package called CoM
 Tablet PC
 ---------
 
-Hints and Tips document ([PDF]({{< baseurl >}}/resources/tablet_pc_tips)) (Courtesy of Prof. Alex Slocum, Jamie Werkmeister and Pat Willoughby. Used with permission.)
+Hints and Tips document ({{% resource_link 383082d1-6a73-c95b-3c99-dd7c41dd7493 "PDF" %}}) (Courtesy of Prof. Alex Slocum, Jamie Werkmeister and Pat Willoughby. Used with permission.)
 
 CoMeT
 -----
