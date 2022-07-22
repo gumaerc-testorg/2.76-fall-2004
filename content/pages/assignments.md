@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 379ecd44-c774-5b55-e8fd-bc14f51f5e96
 ---
@@ -95,14 +99,14 @@ Paper 10 - Dubey, A., C. Mavroidis, A. Thornton, K. Nikitczuk, and M. L. Yarmush
 
 Each problem set of the term project is a 1- 2 page of design summary of your important decisions/modeling/progress to date. We would expect to see detailed sketches, major equations and plots which demonstrate that you are on the right track.  A short discussion of risks/mitigation plans and your group's schedule (constrained by the syllabus of course) would be important as well.
 
-Problem Set 1: Macro to Micro Flexure Design Exercise ([PDF]({{< baseurl >}}/resources/assignment1))
+Problem Set 1: Macro to Micro Flexure Design Exercise ({{% resource_link d3618b10-d226-1480-3a13-3cdc8ace6cbf "PDF" %}})
 
-Problem Set 2: MEMS Intuition Exercise ([PDF]({{< baseurl >}}/resources/assignment2))
+Problem Set 2: MEMS Intuition Exercise ({{% resource_link b05bad5d-b66c-5f7f-e28d-1e48e7f71470 "PDF" %}})
 
-Problem Set 3: Tunneling Current Sensitivity Exercise ([PDF]({{< baseurl >}}/resources/assignment3))
+Problem Set 3: Tunneling Current Sensitivity Exercise ({{% resource_link b28683e3-8259-a9cb-cc84-36d3523ada56 "PDF" %}})
 
-Problem Set 4: Homogeneous Transformation Matrix Exercise ([PDF]({{< baseurl >}}/resources/assignment4))
+Problem Set 4: Homogeneous Transformation Matrix Exercise ({{% resource_link a724cd73-ffb3-6525-82e4-375806dd8720 "PDF" %}})
 
-Problem Set 5: HTM-Kinematic Coupling Exercise ([PDF]({{< baseurl >}}/resources/assignment5))
+Problem Set 5: HTM-Kinematic Coupling Exercise ({{% resource_link 85208a49-071f-e567-51f7-9cd55fa9256c "PDF" %}})
 
-Problem Set 6: Kinematic Coupling Stiffness Exercise ([PDF]({{< baseurl >}}/resources/assignment6))
+Problem Set 6: Kinematic Coupling Stiffness Exercise ({{% resource_link d738da1c-da15-e22f-18aa-c482c6024aad "PDF" %}})

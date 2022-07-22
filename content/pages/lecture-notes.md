@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: dba74ca1-bd7c-18fb-5dd6-f634aaa79cb7
 ---
@@ -48,7 +52,7 @@ Fundamental Principles
 Prof. Martin L. Culpepper
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_1))
+({{% resource_link 34a0b13f-94fb-e18e-99db-65421d9de2f8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +76,7 @@ Fundamental Principles
 Prof. Sang-Gook Kim
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5 MB]({{< baseurl >}}/resources/lecture_2))
+({{% resource_link 611337d9-0f89-98ae-5155-1f10fcc1420a "PDF - 1.5 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +100,7 @@ Fundamental Principles
 Prof. Martin L. Culpepper
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.6 MB]({{< baseurl >}}/resources/lecture_3))
+({{% resource_link 47671d56-037b-5774-62ef-979ea8b03325 "PDF - 2.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +124,7 @@ Fundamental Principles
 Prof. Martin L. Culpepper
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3 MB]({{< baseurl >}}/resources/lecture_4))
+({{% resource_link 88a017ed-4bd8-a94d-d5b0-2ebf7f10743f "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +148,7 @@ Fundamental Principles
 Prof. Martin L. Culpepper
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7 MB]({{< baseurl >}}/resources/lecture_5))
+({{% resource_link 58a22bde-c70a-d007-32f7-4d41db2276e4 "PDF - 1.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +172,7 @@ Case Study/Application
 Soohyung Kim, Course TA
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_6))
+({{% resource_link f1759cf4-dee9-6e44-8d29-52f994d91c43 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,9 +196,9 @@ Fundamental Principles
 Prof. Sang-Gook Kim
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1 of 2 - 3.0 MB]({{< baseurl >}}/resources/lecture_7prt1))  
+({{% resource_link 18c9235b-af6f-0055-196a-b2dcbf7cbae7 "PDF 1 of 2 - 3.0 MB" %}})  
   
-([PDF 2 of 2 - 2.4 MB]({{< baseurl >}}/resources/lecture_7prt2))
+({{% resource_link ecd28107-2943-6f94-5d28-79a2c8c5ee95 "PDF 2 of 2 - 2.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -218,7 +222,7 @@ Case Study/Application
 Prof. Sang-Gook Kim
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.7 MB]({{< baseurl >}}/resources/lecture_8))
+({{% resource_link e3aa3840-8025-f277-7a00-408eb4d539ed "PDF - 1.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -242,7 +246,7 @@ Fundamental Principles
 Prof. Sang-Gook Kim
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_9))
+({{% resource_link 1fc43057-9c18-48ff-16ba-b246f8c27ab0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -266,7 +270,7 @@ Design and Manufacturing
 Prof. Martin L. Culpepper
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_10))
+({{% resource_link 97f1d5d0-c56c-4b6a-07ce-7355eae40fec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -308,7 +312,7 @@ Design and Manufacturing
 Prof. Martin L. Culpepper
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.5 MB]({{< baseurl >}}/resources/lecture_12))
+({{% resource_link aa9ff60b-de0a-de85-0009-874224924519 "PDF - 2.5 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -332,7 +336,7 @@ Design and Manufacturing
 Prof. Martin L. Culpepper
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture_13))
+({{% resource_link 7536035e-77c5-a1b6-bc31-95149f413a9f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -356,7 +360,7 @@ Design and Manufacturing
 Prof. Sang-Gook Kim
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.9 MB]({{< baseurl >}}/resources/lecture_14))
+({{% resource_link d969068d-88f7-8510-2b54-2a1b92c2be25 "PDF - 2.9 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -380,7 +384,7 @@ Design and Manufacturing
 Prof. Sang-Gook Kim
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1 MB]({{< baseurl >}}/resources/lecture_15))
+({{% resource_link a168f518-ebc6-22a1-1dae-a90b5dd8bf6d "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

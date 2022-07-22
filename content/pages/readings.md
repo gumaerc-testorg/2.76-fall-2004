@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the citations and reading materials.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: a9540b50-458a-84d7-fd53-d2a938949de8
 ---
@@ -52,7 +56,7 @@ Incompatibilities of Macro/Meso Parts with Micro/Nano Parts
 Integrating Constraints on Macro/Meso-scale Parts
 {{< tdclose >}}
 {{< tdopen >}}
-Hale, Layton C. "Principles and Techniques for Desiging Precision Machines." MIT PhD Thesis. 1999, pp. 67-82, and 174-204. ([PDF - 1.4 MB]({{< baseurl >}}/resources/reading_l3))
+Hale, Layton C. "Principles and Techniques for Desiging Precision Machines." MIT PhD Thesis. 1999, pp. 67-82, and 174-204. ({{% resource_link 3aa5862a-1724-b75c-3e4a-a7a6fee6c511 "PDF - 1.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +116,7 @@ Design of Rigid, Flexible and Rigid-flexible Constraint
 Manufacturing and Assembly of Cross-scale Interfaces
 {{< tdclose >}}
 {{< tdopen >}}
-Hale, Layton C. Appendix C: Contact Mechanics, in "Principles and Techniques for Desiging Precision Machines." MIT PhD Thesis. 1999, pp. 417-426. ([PDF]({{< baseurl >}}/resources/lec12cont_read))  
+Hale, Layton C. Appendix C: Contact Mechanics, in "Principles and Techniques for Desiging Precision Machines." MIT PhD Thesis. 1999, pp. 417-426. ({{% resource_link a529c624-3da0-95df-d8b9-fb80cc421521 "PDF" %}})  
   
 Slocum, A. "Kinematic Couplings for Precision Fixturing - Part 1: Formulation of Design Parameters." _Precision Engineering_ 10, no. 2 (April 1988): 86.  
   
