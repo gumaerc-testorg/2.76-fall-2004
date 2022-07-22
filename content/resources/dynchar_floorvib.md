@@ -6,6 +6,7 @@ file: /courses/2-76-multi-scale-system-design-fall-2004/87dccec0d5e4f270d5854735
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: dynchar_floorvib.pdf
 uid: 87dccec0-d5e4-f270-d585-47356ac82c7b
 ---
 Supporting material designed to help the student in completing the term project.
-

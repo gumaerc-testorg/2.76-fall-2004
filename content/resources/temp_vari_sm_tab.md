@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: temp_vari_sm_tab.jpg
 uid: 6d8a5dc5-d37b-f611-4d07-3b4d8fe6f792
 ---
 This handout contains a sample temperature variation graph.
-

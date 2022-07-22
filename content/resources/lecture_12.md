@@ -7,6 +7,7 @@ file: /courses/2-76-multi-scale-system-design-fall-2004/aa9ff60bde0ade8500098742
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lecture_12.pdf
 uid: aa9ff60b-de0a-de85-0009-874224924519
 ---
 Slides from lecture presentation covering the following topics: Principles of Mechanical Constraint, Design of Rigid, Flexible and Rigid-flexible Constraint, Manufacturing and Assembly of Cross-scale Interfaces.
-
