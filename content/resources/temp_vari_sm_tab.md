@@ -2,6 +2,7 @@
 content_type: resource
 description: This handout contains a sample temperature variation graph.
 file: /courses/2-76-multi-scale-system-design-fall-2004/6d8a5dc5d37bf6114d073b4d8fe6f792_temp_vari_sm_tab.jpg
+file_size: 32469
 file_type: image/jpeg
 image_metadata:
   caption: ''
