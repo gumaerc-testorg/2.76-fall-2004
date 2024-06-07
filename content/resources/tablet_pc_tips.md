@@ -2,6 +2,7 @@
 content_type: resource
 description: Computer tutorial.
 file: /courses/2-76-multi-scale-system-design-fall-2004/383082d16a73c95b3c99dd7c41dd7493_tablet_pc_tips.pdf
+file_size: 193815
 file_type: application/pdf
 learning_resource_types:
 - Tools

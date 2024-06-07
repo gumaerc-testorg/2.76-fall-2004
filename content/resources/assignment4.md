@@ -7,6 +7,7 @@ description: Problem set 4 of the term project. Each problem set of the term pro
   plans and your group's schedule (constrained by the syllabus of course) would be
   important as well.
 file: /courses/2-76-multi-scale-system-design-fall-2004/a724cd73ffb3652582e4375806dd8720_assignment4.pdf
+file_size: 111800
 file_type: application/pdf
 learning_resource_types:
 - Assignments
