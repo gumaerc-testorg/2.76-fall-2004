@@ -4,6 +4,7 @@ description: 'Slides from lecture presentation covering the following topics: Pr
   of nm-scale Physics which Govern Integration Incompatibility, Nano-scale Actuators,
   Structures and Sensors, Trasmissability of Nano-scale Errors to other Scales.'
 file: /courses/2-76-multi-scale-system-design-fall-2004/58a22bdec70ad00732f74d41db2276e4_lecture_5.pdf
+file_size: 1744617
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
