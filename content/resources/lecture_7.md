@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-76-multi-scale-system-design-fall-2004/170f8a25f03e3c080917fe2fcc162ad1_lecture_7.pdf
+file: /ol-ocw-studio-app/courses/2-76-multi-scale-system-design-fall-2004/170f8a25f03e3c080917fe2fcc162ad1_lecture_7.pdf
 file_size: 5017871
 file_type: application/pdf
 learning_resource_types:
