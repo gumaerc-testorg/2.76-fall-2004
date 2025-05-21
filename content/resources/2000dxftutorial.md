@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: DFX tutorial.
-file: /ol-ocw-studio-app/courses/2-76-multi-scale-system-design-fall-2004/dd58f581d63efae443c1349f5ce2cd38_2000dxftutorial.pdf
+file: /courses/2-76-multi-scale-system-design-fall-2004/dd58f581d63efae443c1349f5ce2cd38_2000dxftutorial.pdf
 file_size: 421753
 file_type: application/pdf
 learning_resource_types:
