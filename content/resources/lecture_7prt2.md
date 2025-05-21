@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Slides from lecture presentation covering the following topics: Piezoelectricity,
   Materials, and Processing.'
-file: /ol-ocw-studio-app/courses/2-76-multi-scale-system-design-fall-2004/ecd2810729436f945d2879a2c8c5ee95_lecture_7prt2.pdf
+file: /courses/2-76-multi-scale-system-design-fall-2004/ecd2810729436f945d2879a2c8c5ee95_lecture_7prt2.pdf
 file_size: 2477067
 file_type: application/pdf
 learning_resource_types:
