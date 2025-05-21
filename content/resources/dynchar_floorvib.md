@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting material designed to help the student in completing the term
   project.
-file: /ol-ocw-studio-app/courses/2-76-multi-scale-system-design-fall-2004/87dccec0d5e4f270d58547356ac82c7b_dynchar_floorvib.pdf
+file: /courses/2-76-multi-scale-system-design-fall-2004/87dccec0d5e4f270d58547356ac82c7b_dynchar_floorvib.pdf
 file_size: 65558
 file_type: application/pdf
 learning_resource_types:
