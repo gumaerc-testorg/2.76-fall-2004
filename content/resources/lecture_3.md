@@ -3,7 +3,7 @@ content_type: resource
 description: 'Slides from lecture presentation covering the following topics: Principles,
   Metrics and Types of Cross-scale Incompatibilities, Incompatibilities of Macro/Meso
   Parts with Micro/Nano Parts, Integrating Constraints on Macro/Meso-scale Parts.'
-file: /courses/2-76-multi-scale-system-design-fall-2004/47671d56037b577462ef979ea8b03325_lecture_3.pdf
+file: /ol-ocw-studio-app/courses/2-76-multi-scale-system-design-fall-2004/47671d56037b577462ef979ea8b03325_lecture_3.pdf
 file_size: 2718961
 file_type: application/pdf
 learning_resource_types:
