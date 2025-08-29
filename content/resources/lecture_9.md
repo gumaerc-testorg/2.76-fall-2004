@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Slides from lecture presentation covering the following topics: Functionality,
   Devices, and Materials of Optical MEMS.'
-file: /courses/2-76-multi-scale-system-design-fall-2004/1fc430579c1848ff16bab246f8c27ab0_lecture_9.pdf
+file: /ol-ocw-studio-app/courses/2-76-multi-scale-system-design-fall-2004/1fc430579c1848ff16bab246f8c27ab0_lecture_9.pdf
 file_size: 539499
 file_type: application/pdf
 learning_resource_types:
