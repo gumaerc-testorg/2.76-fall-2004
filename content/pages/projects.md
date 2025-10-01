@@ -110,26 +110,26 @@ Supporting Materials
 --------------------
 
 1.  a) Pre-amp electronics theory and spec sheets ({{% resource_link f3ee3fc0-14f4-828b-45b2-1bbb44a43e48 "PDF" %}})  
-    b) TI OPA627/637 spec sheet ([PDF](http://focus.ti.com/lit/ds/symlink/opa627.pdf))
+    b) TI OPA627/637 spec sheet ({{% resource_link "99a4a670-ae9f-4b17-a045-ee557683702a" "PDF" %}})
 2.  Capacitance probe theory primer
 3.  Capacitance probe spec sheets  
     Manufacturer: Lion precision  
     Model number: C1-C
 4.  dSpace data acquisition and control system  
-    Manufacturer: [dSpace](http://www.dspace.de/)  
+    Manufacturer: {{% resource_link "e471279c-8c4f-4f2e-aa9b-800182fd469c" "dSpace" %}}  
     Model Number: DS1104 R&D Controller Board
-5.  [Piezo actuator primer](https://www.pi-usa.us/en/products/piezo-actuators-stacks-benders-tubes/)
+5.  {{% resource_link "66a34ec6-f16b-406a-8a50-9bc321387b0d" "Piezo actuator primer" %}}
 6.  Z Axis Piezo actuator specs  
-    Manufacturer: PI ([Physik Instrumente](https://www.physikinstrumente.com/en/))  
+    Manufacturer: PI ({{% resource_link "1a8d2331-4eb5-4407-b358-140020bd0ff1" "Physik Instrumente" %}})  
     Model number: P-882.11
 7.  X and Y Axis Piezo actuator specs  
-    Manufacturer: [Piezojena](http://www.piezojena.com/)  
+    Manufacturer: {{% resource_link "4ee15ac5-ba0b-44c0-8160-4d0af2bd86b4" "Piezojena" %}}  
     Model number: PA 50/14 SG
 8.  How to make DXF files (Waterjet accepts DXF files made from CAD program) ({{% resource_link dd58f581-d63e-fae4-43c1-349f5ce2cd38 "PDF" %}})
 9.  Dynamic characteristics of environment (large table) ({{% resource_link 87dccec0-d5e4-f270-d585-47356ac82c7b "PDF" %}})
 10.  Thermal characteristics of environment (small table) ({{% resource_link 6d8a5dc5-d37b-f611-4d07-3b4d8fe6f792 "JPG" %}})
 11.  Shielded cables (where to buy and how to make)  
-    Manufacturer: [Alpha Wire](http://www.alphawire.com/)  
+    Manufacturer: {{% resource_link "79902152-8bcc-4110-93cb-3e0cb8037c62" "Alpha Wire" %}}  
     Type: Coaxial cables 
 12.  Information on tips to be used  
     Supplier: Veeco Probes  
@@ -137,5 +137,5 @@ Supporting Materials
     Dimensions: diameter (0.25mm), length (8mm)
 13.  Information on samples to be used  
     Supplier: Veeco Probes  
-    Material: [HOPG (Highly Ordered Pyrolytic Graphite)](https://www.2spi.com/category/hopg/)
-14.  Optical Tables. See [Technical Manufacturing Company](http://www.techmfg.com/) Web site
+    Material: {{% resource_link "5fe6ecbd-e36c-46b7-b81f-b5aedc87e331" "HOPG (Highly Ordered Pyrolytic Graphite)" %}}
+14.  Optical Tables. See {{% resource_link "92366bab-c602-4e25-b01d-fb6f8b3a86cd" "Technical Manufacturing Company" %}} Web site
