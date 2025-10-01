@@ -19,4 +19,4 @@ Hints and Tips document ({{% resource_link 383082d1-6a73-c95b-3c99-dd7c41dd7493 
 CoMeT
 -----
 
-CoMeT is being disseminated through the MIT iCampus Outreach program. See [CoMeT: The Compliant Mechanism Tool](http://icampus.mit.edu/CoMeT/) for information, downloads and manuals.
+CoMeT is being disseminated through the MIT iCampus Outreach program. See {{% resource_link "73ab1a96-f28e-49a3-b0aa-d6c17ab27b4a" "CoMeT: The Compliant Mechanism Tool" %}} for information, downloads and manuals.
